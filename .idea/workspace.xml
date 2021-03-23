@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="654bcf74-aac0-4f34-b102-7a283688bf61" name="Default Changelist" comment="" />
+    <list default="true" id="654bcf74-aac0-4f34-b102-7a283688bf61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/background/category-bgmen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/background/herobg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/category/category-img-men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/category/famale1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/category/famale2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/background/1 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/background/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/background/bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/background/bggirls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/category/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/category/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/category/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,20 +33,34 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1pmV6AwjhRWkMTOXBs4GxTkQkUc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/background" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image/background" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image/styles" />
       <recent name="$PROJECT_DIR$/image/background" />
@@ -66,10 +95,19 @@
       <workItem from="1616367627159" duration="64000" />
       <workItem from="1616367758890" duration="2663000" />
       <workItem from="1616392751661" duration="1005000" />
+      <workItem from="1616432646482" duration="2005000" />
+      <workItem from="1616434831231" duration="8211000" />
+      <workItem from="1616516298319" duration="1050000" />
+      <workItem from="1616519226720" duration="21000" />
+      <workItem from="1616519456735" duration="7000" />
+      <workItem from="1616519749218" duration="10704000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
